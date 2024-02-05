@@ -50,7 +50,7 @@ As a second example, if you want to convert gif/duck.gif to a header file while
 resizing it at a 50% ratio, and delete the temp image file, run the following
 
 
-python -i gif/duck.gif -o duck_gif.h -r 0.5 -d true
+python converter.py -i gif/duck.gif -o duck_gif.h -r 0.5 -d true
 ```  
 
 [Dev91 Blog](https://dev91.tistory.com/)
