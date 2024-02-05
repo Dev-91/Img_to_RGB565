@@ -44,7 +44,7 @@ python converter.py --help
 As a first example, if you want to convert gif/dev91.png to a header file while
 resizing it at a 30% ratio, and delete the temp image file, run the following
 
-python converter.py -i img/DEV91_Test.png -o dev91.h -r 0.3 -d true
+python converter.py -i img/dev91.png -o dev91.h -r 0.3 -d true
 
 As a second example, if you want to convert gif/duck.gif to a header file while
 resizing it at a 50% ratio, and delete the temp image file, run the following
